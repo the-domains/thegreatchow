@@ -1,7 +1,7 @@
 name: TheGreatChow
 favicon: null
-layout_spectrum: 0.3770337097812444
-typography_spectrum: 0.49959272891283035
+layout_spectrum: 0.77483
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.07688312139362097
+  brandStrength: 0.5
   lightness: 0.8538697804324329
   saturation: 0.7253915872424841
   rhythmicContrast: 0.24519714177586138
